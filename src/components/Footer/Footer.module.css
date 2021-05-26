@@ -1,0 +1,14 @@
+.footerContainer {
+  display: block;
+  margin-top: 56px;
+  height: 88px;
+  background-color: #3b455a;
+  text-align: center;
+}
+
+.text {
+  padding: 32px 60px;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}

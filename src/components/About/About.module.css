@@ -1,0 +1,44 @@
+.aboutContainer {
+  height: 512px;
+  margin-top: 60px;
+  padding-top: 173px;
+  background-image: url('../../media/img/young-professional-woman.jpg');
+  background-repeat: no-repeat;
+  background-size: content;
+  background-position: center;
+}
+
+.title {
+  margin-bottom: 12px;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 32px;
+  color: #fff;
+}
+.text {
+  margin-bottom: 24px;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+
+@media (min-width: 1312px) {
+  .aboutContainer {
+    height: 568px;
+    margin-top: 72px;
+    padding-top: 104px;
+    background-image: url('../../media/img/descbcg.jpg');
+  }
+
+  .title {
+    width: 512px;
+    font-size: 48px;
+    line-height: 56px;
+    margin-bottom: 28px;
+  }
+  .text {
+    width: 416px;
+    font-size: 16px;
+    margin-bottom: 32px;
+  }
+}

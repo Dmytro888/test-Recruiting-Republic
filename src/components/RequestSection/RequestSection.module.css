@@ -1,0 +1,52 @@
+.requstImg {
+  width: 100%;
+  height: 246px;
+  display: block;
+  margin-top: 85px;
+}
+.requstTitle {
+  margin-top: 32px;
+}
+
+.requstText {
+  margin-top: 24px;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+@media (min-width: 1312px) {
+  .wrapper {
+    display: flex;
+    gap: 32px;
+    margin-top: 130px;
+  }
+  .requestInfoBox {
+    width: 528px;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .descriptionBox {
+    width: 528px;
+  }
+  .requstImg {
+    width: 467px;
+    min-height: 336px;
+  }
+  .requstImg {
+    width: 467px;
+    min-height: 336px;
+    display: block;
+    margin-top: 40px;
+  }
+  .requstTitle {
+    margin-top: 22px;
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .requstText {
+    margin-top: 24px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}

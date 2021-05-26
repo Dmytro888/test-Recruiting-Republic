@@ -1,0 +1,13 @@
+.button {
+  color: #fff;
+  background: linear-gradient(236.84deg, #9c8bea 1.49%, #544695 105.35%);
+  border: 1px solid transparent;
+  border-radius: 50px;
+  box-shadow: -4px 4px 15px rgba(129, 103, 227, 0.2);
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.button:active {
+  background: linear-gradient(236.84deg, #beb3ec 1.49%, #5f5394 105.35%);
+}

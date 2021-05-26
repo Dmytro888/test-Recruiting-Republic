@@ -1,0 +1,38 @@
+.title {
+  margin: 64px 0 48px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+.contentImg {
+  border-radius: 20px;
+}
+.positionName {
+  margin-top: 12px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: left;
+}
+
+.positionName::after {
+  content: '';
+  display: block;
+  height: 54px;
+  background-color: rgb(255, 255, 255);
+}
+
+@media (min-width: 1312px) {
+  .title {
+    margin: 152px 0 56px;
+    text-align: center;
+  }
+
+  .contentImg {
+    min-width: 192px;
+    min-height: 192px;
+    display: none;
+  }
+}

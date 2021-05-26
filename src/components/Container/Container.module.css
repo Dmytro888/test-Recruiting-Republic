@@ -1,0 +1,17 @@
+@media screen and (min-width: 375px) {
+  .container {
+    max-width: 375px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+  }
+}
+
+/*==================DESKTOP=========================*/
+
+@media screen and (min-width: 1312px) {
+  .container {
+    max-width: 1352px;
+    padding: 0 20px;
+  }
+}
