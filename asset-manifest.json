@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/test-Recruiting-Republic/static/css/main.16471808.chunk.css",
+    "main.js": "/test-Recruiting-Republic/static/js/main.6445bb0a.chunk.js",
+    "main.js.map": "/test-Recruiting-Republic/static/js/main.6445bb0a.chunk.js.map",
+    "runtime-main.js": "/test-Recruiting-Republic/static/js/runtime-main.16323bfc.js",
+    "runtime-main.js.map": "/test-Recruiting-Republic/static/js/runtime-main.16323bfc.js.map",
+    "static/css/2.ef93ed83.chunk.css": "/test-Recruiting-Republic/static/css/2.ef93ed83.chunk.css",
+    "static/js/2.ff5b17b6.chunk.js": "/test-Recruiting-Republic/static/js/2.ff5b17b6.chunk.js",
+    "static/js/2.ff5b17b6.chunk.js.map": "/test-Recruiting-Republic/static/js/2.ff5b17b6.chunk.js.map",
+    "index.html": "/test-Recruiting-Republic/index.html",
+    "static/css/2.ef93ed83.chunk.css.map": "/test-Recruiting-Republic/static/css/2.ef93ed83.chunk.css.map",
+    "static/css/main.16471808.chunk.css.map": "/test-Recruiting-Republic/static/css/main.16471808.chunk.css.map",
+    "static/js/2.ff5b17b6.chunk.js.LICENSE.txt": "/test-Recruiting-Republic/static/js/2.ff5b17b6.chunk.js.LICENSE.txt",
+    "static/media/ContactUs.a1e65e1b.png": "/test-Recruiting-Republic/static/media/ContactUs.a1e65e1b.png",
+    "static/media/GettyImages.b4b5270d.jpg": "/test-Recruiting-Republic/static/media/GettyImages.b4b5270d.jpg",
+    "static/media/MicrosoftTeams.536f31d3.jpg": "/test-Recruiting-Republic/static/media/MicrosoftTeams.536f31d3.jpg",
+    "static/media/SeniorCareDirector.a950232f.jpg": "/test-Recruiting-Republic/static/media/SeniorCareDirector.a950232f.jpg",
+    "static/media/Tutor.4fa490fa.jpg": "/test-Recruiting-Republic/static/media/Tutor.4fa490fa.jpg",
+    "static/media/astrologer.9ff2d5c0.jpg": "/test-Recruiting-Republic/static/media/astrologer.9ff2d5c0.jpg",
+    "static/media/cheerful.bf44fc5c.png": "/test-Recruiting-Republic/static/media/cheerful.bf44fc5c.png",
+    "static/media/citybusinessowner.51eff79b.jpg": "/test-Recruiting-Republic/static/media/citybusinessowner.51eff79b.jpg",
+    "static/media/About.module.css": "/test-Recruiting-Republic/static/media/young-professional-woman.36074227.jpg",
+    "static/media/group-young-sporty-people.c4ec2e7b.jpg": "/test-Recruiting-Republic/static/media/group-young-sporty-people.c4ec2e7b.jpg",
+    "static/media/medium-shot-happy-doctor.3d28d70c.jpg": "/test-Recruiting-Republic/static/media/medium-shot-happy-doctor.3d28d70c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16323bfc.js",
+    "static/css/2.ef93ed83.chunk.css",
+    "static/js/2.ff5b17b6.chunk.js",
+    "static/css/main.16471808.chunk.css",
+    "static/js/main.6445bb0a.chunk.js"
+  ]
+}
